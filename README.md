@@ -1,6 +1,6 @@
 # Grace Shopper E-Commerce Project
 
-Hosted Here: <https://grace-shopper-e-commerce.onrender.com/>
+Hosted Here: <https://graceecommerce.netlify.app/> 
 
 ## Tech Stack
 
