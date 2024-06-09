@@ -7,6 +7,8 @@ const api = createApi({
   baseQuery: fetchBaseQuery({
     baseUrl: BACKEND_BASE_URL,
     // baseUrl: "https://grace-shopper-e-commerce-u2tk.onrender.com",
+    // baseUrl: BACKEND_BASE_URL,
+    baseUrl: "https://grace-shopper-e-commerce-xgvg.onrender.com",
     // Define headers to be added to every request
     prepareHeaders: (headers, { getState }) => {
       const token = getState().user.token;
