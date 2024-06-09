@@ -5,8 +5,6 @@ import { BACKEND_BASE_URL } from "../utils/constant";
 const api = createApi({
   reducerPath: "api",
   baseQuery: fetchBaseQuery({
-    baseUrl: BACKEND_BASE_URL,
-    // baseUrl: "https://grace-shopper-e-commerce-u2tk.onrender.com",
     // baseUrl: BACKEND_BASE_URL,
     baseUrl: "https://grace-shopper-e-commerce-xgvg.onrender.com",
     // Define headers to be added to every request
